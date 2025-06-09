@@ -34,10 +34,10 @@
 
 ### 📂 Featured Projects
 
-#### 🔹 [Job Portal Web App](https://github.com/yourusername/job-portal)
+#### 🔹 [Job Portal Web App](https://github.com/tyagisudhanshu/job-portal)
 A full-featured job portal built with React and Tailwind CSS. Users can browse job listings, view job details, and apply.
 
-#### 🔹 [Portfolio Website](https://github.com/yourusername/portfolio)
+#### 🔹 [Portfolio Website](https://tyagisudhanshu.github.io/portfolio/)
 My personal portfolio to showcase projects, skills, and resume. Built using React.js.
 
 ---
