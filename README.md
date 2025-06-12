@@ -13,6 +13,16 @@
 
 ---
 
+### 🤝 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/tyagisudhanshu" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:sudhanshutyagi74@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://tyagisudhanshu.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-grey?style=flat&logo=firefox-browser" alt="Portfolio" /></a>
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white)
@@ -32,16 +42,6 @@
 
 ---
 
-### 📂 Featured Projects
-
-#### 🔹 [Job Portal Web App](https://github.com/tyagisudhanshu/job-portal)
-A full-featured job portal built with React and Tailwind CSS. Users can browse job listings, view job details, and apply.
-
-#### 🔹 [Portfolio Website](https://tyagisudhanshu.github.io/portfolio/)
-My personal portfolio to showcase projects, skills, and resume. Built using React.js.
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -50,16 +50,6 @@ My personal portfolio to showcase projects, skills, and resume. Built using Reac
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshutyagi&theme=radical" alt="streak" />
-</p>
-
----
-
-### 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/tyagisudhanshu" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:sudhanshutyagi74@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://tyagisudhanshu.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-grey?style=flat&logo=firefox-browser" alt="Portfolio" /></a>
 </p>
 
 <!---
